@@ -1,6 +1,6 @@
 ## Welcome to My World
 
-I'm Vinothkumar GANESHAN, work as a Data Scientist who enjoys playing programming, analaytics and data science.
+I'm [https://www.linkedin.com/in/vinothkumar-ganeshan/](Vinothkumar GANESHAN), work as a Data Scientist who enjoys playing programming, analaytics and data science.
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
